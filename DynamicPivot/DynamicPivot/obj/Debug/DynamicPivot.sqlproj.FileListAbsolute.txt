@@ -1,0 +1,10 @@
+C:\Projects\SQL\DynamicPivot\DynamicPivot\bin\Debug\DynamicPivot.dacpac
+C:\Projects\SQL\DynamicPivot\DynamicPivot\bin\Debug\DynamicPivot.dll
+C:\Projects\SQL\DynamicPivot\DynamicPivot\bin\Debug\DynamicPivot.pdb
+C:\Projects\SQL\DynamicPivot\DynamicPivot\obj\Debug\DynamicPivot.sqlprojResolveAssemblyReference.cache
+C:\Projects\SQL\DynamicPivot\DynamicPivot\obj\Debug\Model.xml
+C:\Projects\SQL\DynamicPivot\DynamicPivot\obj\Debug\refactor.xml
+C:\Projects\SQL\DynamicPivot\DynamicPivot\obj\Debug\postdeploy.sql
+C:\Projects\SQL\DynamicPivot\DynamicPivot\obj\Debug\predeploy.sql
+C:\Projects\SQL\DynamicPivot\DynamicPivot\obj\Debug\DynamicPivot.dll
+C:\Projects\SQL\DynamicPivot\DynamicPivot\obj\Debug\DynamicPivot.pdb
